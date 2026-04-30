@@ -1,9 +1,9 @@
 ---
-website: "Plataforma de indicadores, estatísticas e dados abertos da Justiça - DGPJ Direção-Geral da Política de Justiça"          # Entre as aspas escreve o nome do website
+website: "Plataforma de indicadores, estatísticas e dados abertos da Justiça"          # Entre as aspas escreve o nome do website
 date: "29/04/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://numeros.justica.gov.pt/"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://numeros.justica.gov.pt/declaracao-de-acessibilidade-e-usabilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
-owner: "DGPJ"         # Entre as aspas escrever o nome do owner do website
+owner: "DGPJ Direção-Geral da Política de Justiça"         # Entre as aspas escrever o nome do owner do website
 seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 ---
 
